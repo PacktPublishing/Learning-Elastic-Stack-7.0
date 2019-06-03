@@ -50,11 +50,9 @@ With the following software and hardware list you can run all code files present
 | 9 | Elasticsearch 7.x, Kibana 7.x | Windows, Mac OS X, and Linux (Any) |
 | 10 | Elasticsearch 7.x, Kibana 7.x, Logstash 7.x, MySql 5.5 or higher | Windows, Mac OS X, and Linux (Any) |
 | 11 | Elasticsearch 7.x, Kibana 7.x, Metricbeat-oss | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http:/ / www. packtpub. com/ sites/ default/ files/downloads/ 9781789954395_ ColorImages. pdf).
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/ sites/ default/files/downloads/9781789954395_ ColorImages.pdf).
 
 ### Related products
 * Elasticsearch 7.0 Cookbook - Fourth Edition [[Packt]](https://www2.packtpub.com/big-data-and-business-intelligence/elasticsearch-70-cookbook-fourth-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789956504 ) [[Amazon]](https://www.amazon.com/dp/1789956501)
